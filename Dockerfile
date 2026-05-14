@@ -1,2 +1,3 @@
 FROM xhofe/alist:latest
+ENV DB_TABLE_PREFIX=x_
 EXPOSE 5244
